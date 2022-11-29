@@ -1,0 +1,20 @@
+-- date=2019-02-04 08:15:41
+-- user=fernando
+-- op=planificacion x 24 dias, cada 24 hs.
+-- desc=
+-- ----------------------------
+-- date=2019-02-05 08:37:45
+-- user=fernando
+-- op=planificacion x 24 dias, cada 24 hs.
+-- desc=
+-- ----------------------------
+-- date=2019-02-18 10:27:01
+-- user=fernando
+-- op=planificacion x 24 dias, cada 24 hs.
+-- desc=
+-- ----------------------------
+-- date=2019-02-18 12:28:38
+-- user=fernando
+-- op=planificacion x 27 dias, cada 24 hs.
+-- desc=
+-- ----------------------------

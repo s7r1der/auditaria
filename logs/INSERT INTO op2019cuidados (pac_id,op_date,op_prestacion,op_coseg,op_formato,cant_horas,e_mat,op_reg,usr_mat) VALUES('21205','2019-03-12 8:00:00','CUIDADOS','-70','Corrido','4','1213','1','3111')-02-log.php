@@ -1,0 +1,5 @@
+-- date=2019-02-28 10:00:12
+-- user=cristina
+-- op=planificacion x 30 dias, cada 24 hs.
+-- desc=
+-- ----------------------------

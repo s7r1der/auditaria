@@ -1,0 +1,89 @@
+<style type="text/css">	
+	
+	
+	td.head{
+		background:#345b80;
+		color:white;
+		font-style:bold;
+		font-family:Arial;
+		text-align:center;
+		border-color:#000;border-style:solid;border-width:1px;
+		padding:6px 3px 6x 3px;}
+
+
+	td.head-gray	{background:#CACACA;color:#000;}
+	td.head-gray1	{background:#9A9A9A;color:#000;}
+
+	td.titulo{
+		background:#638cb5;
+		color:white;
+		text-align:center;
+		font-size:25px;
+        /*font-family:Arial,Geneva,Verdana,Helvetica;*/
+        font-weight:bold;
+        border-color:#FFF;
+        border-style:solid;
+        border-width: 1px;
+        padding:2px 2px 2x 2px;
+	}
+
+	td.subtitulo{
+		background:#638cb5;
+		color:white;
+		text-align:center;
+		font-size:18px;
+        /*font-family:Arial,Geneva,Verdana,Helvetica;*/
+        font-weight:bold;
+        border-color:#FFF;
+        border-style:solid;
+        border-width: 1px;
+        padding:2px 2px 2x 2px;
+	}
+
+
+	td.separador{
+		background:#638cb5;
+		color:white;
+		text-align:center;
+		font-size:18px;
+        /*font-family:Arial,Geneva,Verdana,Helvetica;*/
+        font-weight:bold;
+        border-color:#FFF;
+        border-style:solid;
+        border-width: 1px;
+        padding:2px 2px 2x 2px;
+	}
+	
+.CirButton {
+	background-color:#638cb5;
+	-moz-border-radius:42px;
+	-webkit-border-radius:42px;
+	border-radius:42px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:12px;
+	padding:1px 4px;
+	text-decoration:none;
+	text-shadow:0px -1px 10px #5b8a3c;
+}
+
+.CirButton:hover {
+	background-color:red;
+}
+.CirButton:active {
+	position:relative;
+	top:1px;
+}
+
+.Fields {
+	background-color: #E9E9E9;
+	border: 2px solid #A8A8A8;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 15px;
+}
+
+table.menu-gray {background:#CACACA;border-color:#345b80;border-style:solid;border-width:3px;text-align:center;}
+
+</style>

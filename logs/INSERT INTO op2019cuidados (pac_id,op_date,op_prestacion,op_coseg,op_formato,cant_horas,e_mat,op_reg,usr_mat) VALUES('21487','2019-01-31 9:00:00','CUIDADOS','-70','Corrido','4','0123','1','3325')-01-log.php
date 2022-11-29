@@ -1,0 +1,10 @@
+-- date=2019-01-15 08:42:54
+-- user=fabiana
+-- op=planificacion x 15 dias, cada 24 hs.
+-- desc=
+-- ----------------------------
+-- date=2019-01-15 08:43:02
+-- user=fabiana
+-- op=planificacion x 15 dias, cada 24 hs.
+-- desc=
+-- ----------------------------

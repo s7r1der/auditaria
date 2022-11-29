@@ -1,0 +1,57 @@
+<style type="text/css">	
+	
+
+	td.head     {background:#345b80;color:#66FF33;text-align:center;padding:2px 2px 2x 2px;}
+	td.head-gray	{background:#CACACA;color:#000;}
+	td.head-gray1	{background:#9A9A9A;color:#000;}
+
+	td.titulo {
+		background: -webkit-gradient(linear, center top, center bottom, from(#fff), to(#ccc));
+		background-image: linear-gradient(#581845,#900C3F);
+		border-radius: 6px;
+		box-shadow: 0px 0px 4px 2px rgba(0,0,0,0.4);
+		color:white;
+		text-align:center;
+		font-size:25px;
+		/*font-family:Arial,Geneva,Verdana,Helvetica;*/
+		font-weight:bold;
+		border-color:#FFF;
+		border-style:solid;
+		padding: 0 10px;
+/*position: relative;*/
+	}
+	
+	input.boton{
+		background-image: linear-gradient(#581845,#900C3F);
+	    font-size:10px;
+	    font-family:Verdana,Helvetica;
+	    font-weight:bold;
+	    color:white;
+	    border:0px;
+	    width:420px;
+	    height:22px;
+   }
+
+    .Fields {
+		background-color: #E9E9E9;
+		border: 2px solid #A8A8A8;
+		font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+		font-size: 15px;
+	}
+
+	.myTable-gray {
+		/*background-color:#EFEFEF;*/
+		background-image: linear-gradient(#fff, #ccc);
+		-moz-border-radius:7px;
+		-webkit-border-radius:7px;
+		border-radius:7px;
+		border:1px solid #0B0;
+		cursor:pointer;
+		padding:1px 1px;
+		text-decoration:none;
+	}
+
+
+	table.menu-gray {background:#CACACA;border-color:#0B0;border-style:solid;border-width:2px;text-align:center;}
+
+</style>

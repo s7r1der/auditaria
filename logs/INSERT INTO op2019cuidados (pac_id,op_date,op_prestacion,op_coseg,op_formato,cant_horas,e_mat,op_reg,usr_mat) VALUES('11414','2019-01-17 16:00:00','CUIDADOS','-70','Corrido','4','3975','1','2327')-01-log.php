@@ -1,0 +1,5 @@
+-- date=2019-01-03 08:45:57
+-- user=fernando
+-- op=planificacion x 30 dias, cada 24 hs.
+-- desc=
+-- ----------------------------
