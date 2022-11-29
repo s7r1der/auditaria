@@ -1,5 +1,0 @@
--- date=2019-04-02 10:45:17
--- user=mariela
--- op=planificacion x 1 dias, cada 24 hs.
--- desc=
--- ----------------------------

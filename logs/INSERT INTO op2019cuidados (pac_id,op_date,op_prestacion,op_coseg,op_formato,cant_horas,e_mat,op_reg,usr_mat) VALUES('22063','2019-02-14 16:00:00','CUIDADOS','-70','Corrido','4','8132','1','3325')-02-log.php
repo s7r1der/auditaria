@@ -1,5 +1,0 @@
--- date=2019-02-20 10:57:28
--- user=fabiana
--- op=planificacion x 17 dias, cada 24 hs.
--- desc=
--- ----------------------------

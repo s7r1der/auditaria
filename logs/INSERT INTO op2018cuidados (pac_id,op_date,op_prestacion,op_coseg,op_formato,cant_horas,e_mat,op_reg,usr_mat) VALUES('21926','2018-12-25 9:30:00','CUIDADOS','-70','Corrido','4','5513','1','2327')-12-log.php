@@ -1,5 +1,0 @@
--- date=2018-12-17 07:47:20
--- user=fernando
--- op=planificacion x 21 dias, cada 24 hs.
--- desc=
--- ----------------------------
