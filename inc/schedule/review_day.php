@@ -1,13 +1,13 @@
 <link rel="StyleSheet" href="css/forms.css" type="text/css">
 
-<?php	
+<?php
 
-$date=$_GET["year"]."-".$_GET["month"]."-".$_GET["day"];
-$cont=1;
+$date = $_GET["year"] . "-" . $_GET["month"] . "-" . $_GET["day"];
+$cont = 1;
 
 include("inc/schedule/review_day/enc_menu_reviewday.php");
 
-switch($_GET["opt"]){
+switch ($_GET["opt"]) {
 	case "news":
 		include("inc/schedule/review_day/rvday_news.php");
 		break;
@@ -27,11 +27,11 @@ switch($_GET["opt"]){
 	case "8horas_cuid":
 		include("inc/schedule/review_day/rvday_+8horas_cuid.php");
 		break;
-	
+
 	case "sinqth":
 		include("inc/schedule/review_day/rvday_sinqth.php");
 		break;
-	
+
 	case "sinqru":
 		include("inc/schedule/review_day/rvday_sinqru.php");
 		break;
